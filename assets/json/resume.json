@@ -29,8 +29,9 @@
       "endDate": "",
       "score": "",
       "courses": [""],
-      "Supervisor": "Prof. Kohei Ichikawa",
-      "url": "https://motigomeman.wordpress.com/"
+      "supervisor": "Prof. Kohei Ichikawa",
+      "supervisor_url": "https://motigomeman.wordpress.com/",
+      "thesis": "",
     },
     {
       "institution": "Waseda University, Tokyo, Japan",
@@ -41,7 +42,7 @@
       "startDate": "2021.4",
       "endDate": "2025.3",
       "score": "",
-      "courses": [""]
+      "courses": []
     }
   ],
   "awards": [
