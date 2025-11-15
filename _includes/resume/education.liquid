@@ -41,18 +41,8 @@
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
 
-          {% if content.courses and content.courses != blank %}          
-            <ul class="items">
-              {% for item in content.courses %}
-                <li>
-                  <span class="item">{{ item }}</span>
-                </li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-
           {% if content.supervisor %}
-            <p class="ml-1 ml-md-4" style="font-size: 0.9rem; font-style: italic">
+            <p class="ml-1 ml-md-4" style="font-size: 0.9rem; margin-bottom: 0;>
               Supervisor: 
               {% if content.supervisor_url %}
                 <a href="{{ content.supervisor_url }}" target="_blank" rel="noopener noreferrer">{{ content.supervisor }}</a>
@@ -63,7 +53,7 @@
           {% endif %}
 
           {% if content.thesis %}
-            <p class="ml-1 ml-md-4" style="font-size: 0.9rem; font-style: italic">
+            <p class="ml-1 ml-md-4" style="font-size: 0.9rem; margin-bottom: 0;>
               Thesis: {{ content.thesis }}
             </p>
           {% endif %}
