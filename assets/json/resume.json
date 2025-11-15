@@ -44,15 +44,7 @@
       "courses": [""]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
