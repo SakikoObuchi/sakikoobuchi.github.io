@@ -56,6 +56,17 @@
       "endDate": "",
       "score": "",
       "courses": [""]
+    },
+    {
+      "institution": "Waseda University, Tokyo, Japan",
+      "location": "Tokyo, Japan",
+      "url": "https://www.phys.waseda.ac.jp/",
+      "area": "Department of Applied Physics",
+      "studyType": "B.S. in Physics",
+      "startDate": "2021.4",
+      "endDate": "2025.3",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
