@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: The PDF version of my CV is available by clicking the right icon.
+description: The PDF version of my Curriculum Vitae is available by clicking the right icon.
 toc:
   sidebar: left
 ---
