@@ -6,21 +6,13 @@
     "email": "buchi-13526.cjl@fuji.waseda.jp",
     "phone": "+81-3-5286-8069",
     "url": "https://sakikoobuchi.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "3-4-1 Okubo",
+      "postalCode": "169-8555",
+      "city": "Shinjuku-ku",
+      "countryCode": "JP",
+      "region": "Tokyo"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
