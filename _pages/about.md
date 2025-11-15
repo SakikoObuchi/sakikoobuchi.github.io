@@ -9,9 +9,10 @@ profile:
   image: prof_mypic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <!-- <p>555 your office number</p> -->
     <p>Waseda University</p>
-    <p>Tokyo, Japan</p>
+    <p>3-4-1 Okubo, Shinjuku-ku,</p>
+    <p>Tokyo, 169-8555, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
