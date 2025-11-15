@@ -44,11 +44,30 @@
       "courses": [""]
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "language": "Japanese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "conversational",
+      "icon": ""
+    }
+  ],
   "interests": [],
   "references": [
     {
