@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  /*"work": [
     {
       "name": "",
       "position": "",
@@ -44,7 +44,7 @@
       "summary": "",
       "highlights": [""]
     }
-  ],
+  ],*/
   "education": [
     {
       "institution": "Waseda University, Tokyo, Japan",
