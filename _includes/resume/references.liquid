@@ -21,7 +21,15 @@
           <tr>
             <td></td>
             <td class="list-group-name">
-              <b>{{ content.reference }}</b>
+              {% if content.url and content.url != blank %}
+                <b>
+                  <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">
+                    {{ content.reference }}
+                  </a>
+                </b>
+              {% else %}
+                <b>{{ content.reference }}</b>
+              {% endif %}
             </td>
           </tr>
         </tbody>
