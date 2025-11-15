@@ -28,8 +28,8 @@
       "startDate": "2025.4",
       "endDate": "",
       "score": "",
-      "courses": [""]
-      "Supervisor": "Prof. Kohei Ichikawa"
+      "courses": [""],
+      "Supervisor": "Prof. Kohei Ichikawa",
       "url": "https://motigomeman.wordpress.com/"
     },
     {
@@ -54,7 +54,7 @@
     {
       "name": "Prof. Kohei Ichikawa",
       "icon": "fa-solid fa-laptop",
-      "reference": "Associate Professor, Tohoku University, Japan"
+      "reference": "Associate Professor, Tohoku University, Japan",
       "url": "https://motigomeman.wordpress.com/"
     }
   ],
