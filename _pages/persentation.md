@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /presentation/
-title: presentation
+title: presentations
 description: Materials for presentations you gave. Replace this text with your description.
 nav: true
 nav_order: 6
