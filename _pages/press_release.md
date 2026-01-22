@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /presentation/
-title: presentations
+permalink: /press_release/
+title: press release
 description: Materials for presentations you gave. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 2025.Jul Galaxy-IGM Workshop,
