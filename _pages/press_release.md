@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /press_release/
-title: press releases
+title: Press Releases
 description: Materials for presentations you gave. Replace this text with your description.
 nav: true
 nav_order: 7
