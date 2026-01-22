@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-press-releases",
           title: "Press Releases",
-          description: "Materials for presentations you gave. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/press_release/";
