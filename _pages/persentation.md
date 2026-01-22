@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /presentation/
-title: Presentations/Press Releases
+title: Presentations
 description:
 nav: true
 nav_order: 6
