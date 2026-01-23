@@ -12,13 +12,9 @@ nav_order: 6
 
 [1]
 
-2025.Jul Galaxy-IGM Workshop,
 
 #### **Poster Presentations**
-[2]
+[2] *“eROSITA Detected Super-Eddington Radio Quasar With A Soft X-ray Excess”*  
+ASJ Spring Annual Meeting 2025, Yamaguchi, Japan — Sep. 2025
 
 [1]
-
-For now, this page is assumed to be a static description of your presentations. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each presentation.
-
-Organize your presentations by years, topics, or universities, however you like!
