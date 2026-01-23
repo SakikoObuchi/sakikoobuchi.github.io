@@ -9,9 +9,5 @@ nav_order: 7
 
 #### <span style="font-weight: 500;">Press Releases</span>
 
-[1]
-2025.Jul Galaxy-IGM Workshop,
-
-For now, this page is assumed to be a static description of your presentations. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each presentation.
-
-Organize your presentations by years, topics, or universities, however you like!
+[1] *[“Theory-Breaking Extremely Fast-Growing Black Hole”](https://www.nao.ac.jp/en/news/science/2026/20260122-subaru.html)*  
+NAOJ / Subaru Telescope / Waseda University / Tohoku University
