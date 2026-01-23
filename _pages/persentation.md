@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-#### **Oral Presentations**
+#### <span style="font-weight: 500;">Oral Presentations</span>
 [5] *“Discovery of an X-ray Luminous Radio-Loud Quasar at z = 3.4: A Possible Transitional Super-Eddington Phase”*  
 [SMBH growth viewed with large field surveys: special focus on the initial results from Subaru PFS](https://events.asiaa.sinica.edu.tw/workshop/20260317/index.php), ASIAA, Taiwan
 
@@ -24,7 +24,7 @@ ALMA Workshop 2025, Ishikawa, Japan — Nov. 2025
 ASJ Autumn Annual Meeting 2024, Kwansei Gakuin University, Japan — Sep. 2024
 
 
-#### **Poster Presentations**
+#### <span style="font-weight: 500;">Poster Presentations</span>
 [2] *“eROSITA Detected Super-Eddington Radio Quasar With A Soft X-ray Excess”*  
 ASJ Spring Annual Meeting 2025, Yamaguchi, Japan — Sep. 2025
 
