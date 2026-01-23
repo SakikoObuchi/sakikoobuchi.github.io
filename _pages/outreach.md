@@ -9,5 +9,5 @@ nav_order: 7
 
 #### <span style="font-weight: 500;">Press Releases</span>
 
-[1] *[“Theory-Breaking Extremely Fast-Growing Black Hole”](https://www.nao.ac.jp/en/news/science/2026/20260122-subaru.html)*  
+[1] *“[Theory-Breaking Extremely Fast-Growing Black Hole](https://www.nao.ac.jp/en/news/science/2026/20260122-subaru.html)”*  
 Joint press release by NAOJ, Subaru Telescope, and Waseda University — Jan. 2026
