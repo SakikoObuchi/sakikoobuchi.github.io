@@ -14,7 +14,7 @@ nav_order: 6
 [4] *“Discovery of an X-ray Luminous Radio-Loud Quasar at z = 3.4: A Possible Transitional Super-Eddington Phase”*  
 ALMA Workshop 2025, Ishikawa, Japan — Nov. 2025
 
-[3] “MOIRCS confirmation of super-Eddington accretion in an extremely X-ray loud radio quasar at z = 3.4 in the eROSITA/eFEDS field”*  
+[3] *“MOIRCS confirmation of super-Eddington accretion in an extremely X-ray loud radio quasar at z = 3.4 in the eROSITA/eFEDS field”*  
 [Subaru Users Meeting](https://subarutelescope.org/Science/SubaruUM/subaru_um2025.html), NAOJ, Japan — Oct. 2025
 
 [2] *“eROSITA Detected Radio Quasar Possibly Reaching Super-Eddington Accretion Limit”*  
