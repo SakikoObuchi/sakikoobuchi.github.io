@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-#### **Press Releases**
+#### <span style="font-weight: 500;">Press Releases</span>
 
 [1]
 2025.Jul Galaxy-IGM Workshop,
