@@ -407,7 +407,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          title: 'announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
