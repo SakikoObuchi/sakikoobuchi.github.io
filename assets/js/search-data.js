@@ -402,7 +402,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+          title: 'announcement_3',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
