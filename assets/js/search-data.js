@@ -401,12 +401,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-personal-website-is-now-open",
-          title: 'My personal website is now open!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "news-",
           title: '',
           description: "",
           section: "News",},{id: "news-",
