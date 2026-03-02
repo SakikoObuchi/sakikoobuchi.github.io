@@ -1,7 +1,7 @@
 ---
 layout: post
-title: announcement_3
-date: 2026-01-10
+title: My personal website is now open!
+date: 2026-01-21
 inline: false
 related_posts: false
 ---
