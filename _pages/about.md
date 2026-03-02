@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.ase.sci.waseda.ac.jp/english/" target="_blank">Waseda University.</a>
 
 profile:
   align: right
@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <!-- <p>555 your office number</p> -->
-    <p>Waseda University</p>
     <p>3-4-1 Okubo, Shinjuku-ku,</p>
     <p>Tokyo, 169-8555, Japan</p>
 
