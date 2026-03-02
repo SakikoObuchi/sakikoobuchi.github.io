@@ -401,16 +401,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-author-paper-has-been-published-obuchi-et-al-2026",
-          title: 'My first-author paper has been published (Obuchi et al. 2026).',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-my-personal-website-is-now-open",
           title: 'My personal website is now open!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-my-first-author-paper-has-been-published-obuchi-et-al-2026",
+          title: 'My first-author paper has been published (Obuchi et al. 2026).',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-press-release-https-www-nao-ac-jp-en-news-science-2026-20260122-subaru-html-on-my-recent-publication-is-now-available",
           title: 'A [press release](https://www.nao.ac.jp/en/news/science/2026/20260122-subaru.html) on my recent publication is now available.',
           description: "",
