@@ -401,8 +401,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-author-paper-has-been-published-obuchi-et-al-2026-https-iopscience-iop-org-article-10-3847-1538-4357-ae1d6d",
-          title: 'My first-author paper has been published ([Obuchi et al. 2026](https://iopscience.iop.org/article/10.3847/1538-4357/ae1d6d))',
+            },},{id: "news-my-first-author-paper-has-been-published-obuchi-et-al-2026",
+          title: 'My first-author paper has been published (Obuchi et al. 2026).',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
