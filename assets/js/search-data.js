@@ -411,8 +411,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-announcement-1",
-          title: 'announcement_1',
+            },},{id: "news-a-press-release-https-www-nao-ac-jp-en-news-science-2026-20260122-subaru-html-on-my-recent-publication-is-now-available",
+          title: 'A [press release](https://www.nao.ac.jp/en/news/science/2026/20260122-subaru.html) on my recent publication is now available.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
