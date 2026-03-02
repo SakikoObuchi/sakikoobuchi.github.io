@@ -401,8 +401,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-2",
-          title: 'announcement_2',
+            },},{id: "news-my-first-author-paper-has-been-published-obuchi-et-al-2026-https-iopscience-iop-org-article-10-3847-1538-4357-ae1d6d",
+          title: 'My first-author paper has been published ([Obuchi et al. 2026](https://iopscience.iop.org/article/10.3847/1538-4357/ae1d6d))',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
