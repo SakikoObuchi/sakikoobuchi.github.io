@@ -30,3 +30,8 @@ ASJ Spring Annual Meeting 2025, Yamaguchi, Japan — Sep. 2025
 
 [1] *“eROSITA Detected Radio Quasar at z = 3.4 Reaching Super-Eddington Accretion Limit”*  
 Galaxy Evolution Workshop, Nagoya University, Japan — Aug. 2025
+
+
+#### <span style="font-weight: 500;">Seminars and Colloquia</span>
+[1] *“MOIRCS confirmation of super-Eddington accretion in an extremely X-ray loud radio quasar at z=3.4 in the eROSITA/eFEDS field ”*  
+Science Report, NAOJ Advisory Committee for Research and Management, Japan — Mar. 2026
