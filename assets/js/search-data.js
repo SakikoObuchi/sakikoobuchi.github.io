@@ -406,8 +406,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-my-first-author-paper-has-been-published-obuchi-et-al-2026",
-          title: 'My first-author paper has been published (Obuchi et al. 2026).',
+            },},{id: "news-my-first-author-paper-has-been-published-obuchi-et-al-2026a",
+          title: 'My first-author paper has been published (Obuchi et al. 2026a).',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
